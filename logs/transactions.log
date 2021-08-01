@@ -1,0 +1,32 @@
+2021-08-01 01:02:02,458 [      LoginCustomer.java:main:85] - 1 transfer of INR 1 to 10 on Sun Aug 01 01:02:02 IST 2021 was failed
+2021-08-01 01:02:15,069 [      LoginCustomer.java:main:104] - 1 deposit of INR 10 on Sun Aug 01 01:02:15 IST 2021 was successful
+2021-08-01 01:02:21,935 [      LoginCustomer.java:main:129] - 1 withdraw of INR 10 on Sun Aug 01 01:02:21 IST 2021 was successful
+2021-08-01 12:27:03,585 [ BankingCustomerDAO.java:main:133] - 3 transfer of INR 10 to 1 on Sun Aug 01 12:27:03 IST 2021 was successful
+2021-08-01 12:27:13,338 [      LoginCustomer.java:main:89] - 3 deposit of INR 10 on Sun Aug 01 12:27:13 IST 2021 was successful
+2021-08-01 12:27:22,024 [      LoginCustomer.java:main:114] - 3 withdraw of INR 10 on Sun Aug 01 12:27:22 IST 2021 was successful
+2021-08-01 13:15:33,129 [ BankingCustomerDAO.java:main:133] - 9 transfer of INR 500 to 1 on Sun Aug 01 13:15:33 IST 2021 was successful
+2021-08-01 13:15:48,338 [      LoginCustomer.java:main:89] - 9 deposit of INR 100 on Sun Aug 01 13:15:48 IST 2021 was successful
+2021-08-01 13:16:00,377 [      LoginCustomer.java:main:114] - 9 withdraw of INR 100 on Sun Aug 01 13:16:00 IST 2021 was successful
+2021-08-01 20:05:26,888 [ BankingCustomerDAO.java:main:132] - 60 transfer of INR 1 to 1 on Sun Aug 01 20:05:26 IST 2021 was successful
+2021-08-01 20:05:37,577 [      LoginCustomer.java:main:89] - 60 deposit of INR 1 on Sun Aug 01 20:05:37 IST 2021 was successful
+2021-08-01 20:05:49,736 [      LoginCustomer.java:main:114] - 60 withdraw of INR 1 on Sun Aug 01 20:05:49 IST 2021 was successful
+2021-08-01 21:02:03,710 [      LoginCustomer.java:main:89] - 32 deposit of INR 50 on Sun Aug 01 21:02:03 IST 2021 was successful
+2021-08-01 21:09:50,771 [ BankingCustomerDAO.java:main:130] - 32 transfer of INR 1 to 1 on Sun Aug 01 21:09:50 IST 2021 was successful
+2021-08-01 21:09:58,497 [      LoginCustomer.java:main:86] - 32 deposit of INR 1 on Sun Aug 01 21:09:58 IST 2021 was successful
+2021-08-01 21:10:05,842 [      LoginCustomer.java:main:111] - 32 withdraw of INR 1 on Sun Aug 01 21:10:05 IST 2021 was successful
+2021-08-01 21:20:57,861 [ BankingCustomerDAO.java:main:130] - 32 transfer of INR 32 to 1 on Sun Aug 01 21:20:57 IST 2021 was successful
+2021-08-01 21:21:02,701 [ BankingCustomerDAO.java:main:130] - 32 transfer of INR 32 to 1 on Sun Aug 01 21:21:02 IST 2021 was successful
+2021-08-01 21:21:06,160 [      LoginCustomer.java:main:86] - 32 deposit of INR 1 on Sun Aug 01 21:21:06 IST 2021 was successful
+2021-08-01 21:21:13,292 [      LoginCustomer.java:main:111] - 32 withdraw of INR 4 on Sun Aug 01 21:21:13 IST 2021 was successful
+2021-08-01 21:37:03,996 [      LoginCustomer.java:main:67] - 32 transfer of INR 2 to 2 on Sun Aug 01 21:37:03 IST 2021 was failed
+2021-08-01 21:37:11,650 [      LoginCustomer.java:main:67] - 32 transfer of INR 2 to 1 on Sun Aug 01 21:37:11 IST 2021 was failed
+2021-08-01 21:37:31,173 [      LoginCustomer.java:main:67] - 32 transfer of INR 1 to 1 on Sun Aug 01 21:37:31 IST 2021 was failed
+2021-08-01 21:37:35,680 [ BankingCustomerDAO.java:main:130] - 32 transfer of INR 1 to 4 on Sun Aug 01 21:37:35 IST 2021 was successful
+2021-08-01 21:37:42,702 [      LoginCustomer.java:main:86] - 32 deposit of INR 4 on Sun Aug 01 21:37:42 IST 2021 was successful
+2021-08-01 21:37:49,347 [      LoginCustomer.java:main:111] - 32 withdraw of INR 1 on Sun Aug 01 21:37:49 IST 2021 was successful
+2021-08-01 23:04:58,711 [ BankingCustomerDAO.java:main:131] - 2 transfer of INR 100 to 3 on Sun Aug 01 23:04:58 IST 2021 was successful
+2021-08-01 23:05:06,185 [      LoginCustomer.java:main:95] - 2 deposit of INR 100 on Sun Aug 01 23:05:06 IST 2021 was successful
+2021-08-01 23:05:12,458 [      LoginCustomer.java:main:121] - 2 withdraw of INR 100 on Sun Aug 01 23:05:12 IST 2021 was successful
+2021-08-01 23:17:47,872 [ BankingCustomerDAO.java:main:131] - 1 transfer of INR 100 to 3 on Sun Aug 01 23:17:47 IST 2021 was successful
+2021-08-01 23:17:57,949 [      LoginCustomer.java:main:95] - 1 deposit of INR 100 on Sun Aug 01 23:17:57 IST 2021 was successful
+2021-08-01 23:18:14,150 [      LoginCustomer.java:main:121] - 1 withdraw of INR 100 on Sun Aug 01 23:18:14 IST 2021 was successful
